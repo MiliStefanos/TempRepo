@@ -1,9 +1,10 @@
 #include <iostream>
 #include <stdio.h>
 
+using namespace std;
+
 int main()
 {
-    
-    std::cout << "Let's see the world through our hands" << std::endl;
+    cout << "Let's see the world through our hands" << endl;
     return 0;
 }
